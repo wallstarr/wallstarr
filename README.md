@@ -1,7 +1,7 @@
 ### hello there! 🦎
 
 
-<img align="right" src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="500" height="300" alt="description">
+<img align="right" src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="300" height="300" alt="description">
 
 Hi, I am [Dan Blustein](wallstarr.github.io) -- I am a CS student in my last term at UBC (graduating may 2024)!
 
