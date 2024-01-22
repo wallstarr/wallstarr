@@ -1,4 +1,12 @@
-### Hi there 👋
+### hello there! 🦎
+
+
+<img align="right" src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif" width="500" height="300" alt="description">
+
+Hi, I am [Dan Blustein](wallstarr.github.io) -- I am a CS student in my last term at UBC (graduating may 2024)!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallstarr\&rank_icon=github&show_icons=true\&title_color=fff\&icon_color=0A5C36\&text_color=0A5C36\&bg_color=050301&custom_title=my%20github!)
+
 
 <!--
 **wallstarr/wallstarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
