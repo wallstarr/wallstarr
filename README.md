@@ -18,6 +18,6 @@ Hi, I am [Dan Blustein](https://wallstarr.github.io) -- a 5th year CS student in
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
 
 
-- ♟️ I’m currently working on cleaning up [Marauder's Map](https://github.com/wallstarr/nwhacks2024)
+- ♟️ I’m currently working on a front-end for [quick-chess](https://github.com/wallstarr/quick-chess)
 - 📚 I’m currently studying computer security, functional programming, and english literature (and more)
 - ⚡ fun fact: my favorite snack food is salted edamame 🫛
